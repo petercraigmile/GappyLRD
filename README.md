@@ -3,7 +3,7 @@
 R and C++ code that accompanies the article
 
 P. F. Craigmile and D. Mondal,
-Estimation of long range dependence in gappy Gaussian time series
+Estimation of long range dependence in gappy Gaussian time series.
 To appear in Statistics and Computing (https://www.springer.com/statistics/journal/11222)
 
 Contact: pfc@stat.osu.edu
